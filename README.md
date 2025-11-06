@@ -29,5 +29,5 @@ The analysis lists the following features along with their relative importance (
 <br></br>
 The raw data corrorborates these findings as seen below
 <br></br>
-<img src="https://github.com/SubhraSMukherjee/Factor_Analysis/blob/main/screenshots/support.png" align="left" width="480" height="400"></img> <img src="https://github.com/SubhraSMukherjee/Factor_Analysis/blob/main/screenshots/subscription.png" align="right" width="480" height="400"></img>
+<img src="https://github.com/SubhraSMukherjee/Factor_Analysis/blob/main/screenshots/support.png" align="center" width="480" height="400"></img> <img src="https://github.com/SubhraSMukherjee/Factor_Analysis/blob/main/screenshots/subscription.png" align="center" width="480" height="400"></img>
 
